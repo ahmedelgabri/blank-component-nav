@@ -1,0 +1,28 @@
+{
+  "name": "blank-css-nav",
+  "version": "0.1.0",
+  "description": "nav component for blank-css",
+  "main": "nav.scss",
+  "homepage": "https://github.com/ahmedelgabri/blank-component-nav",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css",
+    "nav"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
